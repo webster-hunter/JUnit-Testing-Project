@@ -1,4 +1,5 @@
 # JUnit-Testing-Project
+  This project was done as a part of Southern New Hampshire University's CS-320 Software Test Automation & QA Course
 
 
 # How can I ensure that my code, program, or software is functional and secure?
